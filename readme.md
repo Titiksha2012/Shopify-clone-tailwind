@@ -1,16 +1,7 @@
-![](./screenshot/2.png)
-
-###### Hey there 👋
-###### I'm Shyam, a CE student and creative coder and self-proclaimed designer. I make it my mission to translate user-focused designs into pixel-perfect websites.
-
-
 ![](./screenshot/1.png)
 
 
 ### I made [shopify india/](https://shopify.in/) landing page design using Tailwind css only
-
->I Deployed my Project on Netlify and Vercel. so you can check it out 👇
-<br> [https://shopify-cl.netlify.app/](https://shopify-cl.netlify.app/) `recommended`
 
 ### 📌Resources and and its corresponding CDN links
 - Fonts
@@ -57,13 +48,10 @@
 
 ## What I Learned from this Project?
 
-- I learned lot from this project. This types of projects create color sance in my mind.
-- I learned how we use tailwind css to build responsive web pages
-
-
-## This Project took around 5:00 Hours ⏲️ to complate.
+- I learned more efficient use of Tailwind CSS by getting hands-on experience.
+- I also learned how greatly the nuances of a website matter and got proficient in taking care of the them while building it any site.
 
 ## Author
 
-- [@shyamtala](https://github.com/shyamtala003)
+- [@Titiksha2012](https://github.com/Titiksha2012)
 
